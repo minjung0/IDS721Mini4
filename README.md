@@ -1,6 +1,12 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+## Rust Mini Project #4: Temperature converter
 
-## References
+You can convert temperature between Celsius and Fahrenheit.
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+### Usage
+
+1. cargo run -- temperature
+2. Select the conversion direction.
+- 1.  : Celsius -> Fahrenheit
+- 2.  : Fahrenheit -> Celsius
+- Else: Quit the program
+3. Enter the temperature to be converted.
